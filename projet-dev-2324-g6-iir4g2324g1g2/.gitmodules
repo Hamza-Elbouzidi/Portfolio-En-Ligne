@@ -1,0 +1,9 @@
+[submodule "Portfolio-spring-boot"]
+	path = Portfolio-spring-boot
+	url = https://github.com/iir-projets/Portfolio-spring-boot.git
+[submodule "Portfolio-react-web"]
+	path = Portfolio-react-web
+	url = https://github.com/iir-projets/Portfolio-react-web.git
+[submodule "Portfolio-react-native"]
+	path = Portfolio-react-native
+	url = https://github.com/iir-projets/Portfolio-react-native.git
